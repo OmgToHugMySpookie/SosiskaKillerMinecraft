@@ -1,0 +1,8 @@
+{
+    "display_name": "SillyTavernThemes",
+    "description": "All themes for SillyTavern",
+    "version": "1.0.0",
+    "author": "YaShaval99Benz",
+    "loading_order": 999,
+    "js": "index.js"
+}
